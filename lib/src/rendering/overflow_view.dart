@@ -389,7 +389,7 @@ class RenderOverflowView extends RenderBox
       );
     });
 
-    return false;
+    return true;
   }
 }
 
